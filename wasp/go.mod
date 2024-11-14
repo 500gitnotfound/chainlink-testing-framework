@@ -163,7 +163,7 @@ require (
 
 require (
 	github.com/coder/websocket v1.8.12
-	github.com/grafana/pyroscope-go v1.1.2
+	github.com/grafana/pyroscope-go v1.2.0
 	github.com/smartcontractkit/chainlink-testing-framework/lib/grafana v1.50.0
 )
 
