@@ -1042,8 +1042,8 @@ github.com/sirupsen/logrus v1.4.2/go.mod h1:tLMulIdttU9McNUspp0xgXVQah82FyeX6Mwd
 github.com/sirupsen/logrus v1.6.0/go.mod h1:7uNnSEd1DgxDLC74fIahvMZmmYsHGZGEOFrfsX/uA88=
 github.com/sirupsen/logrus v1.9.3 h1:dueUQJ1C2q9oE3F7wvmSGAaVtTmUizReu6fjN8uqzbQ=
 github.com/sirupsen/logrus v1.9.3/go.mod h1:naHLuLoDiP4jHNo9R0sCBMtWGeIprob74mVsIT4qYEQ=
-github.com/slack-go/slack v0.15.0 h1:LE2lj2y9vqqiOf+qIIy0GvEoxgF1N5yLGZffmEZykt0=
-github.com/slack-go/slack v0.15.0/go.mod h1:hlGi5oXA+Gt+yWTPP0plCdRKmjsDxecdHxYQdlMQKOw=
+github.com/slack-go/slack v0.16.0 h1:khp/WCFv+Hb/B/AJaAwvcxKun0hM6grN0bUZ8xG60P8=
+github.com/slack-go/slack v0.16.0/go.mod h1:hlGi5oXA+Gt+yWTPP0plCdRKmjsDxecdHxYQdlMQKOw=
 github.com/smartcontractkit/chainlink-testing-framework/lib/grafana v1.50.0 h1:VIxK8u0Jd0Q/VuhmsNm6Bls6Tb31H/sA3A/rbc5hnhg=
 github.com/smartcontractkit/chainlink-testing-framework/lib/grafana v1.50.0/go.mod h1:lyAu+oMXdNUzEDScj2DXB2IueY+SDXPPfyl/kb63tMM=
 github.com/smartcontractkit/chainlink-testing-framework/seth v1.50.9 h1:yB1x5UXvpZNka+5h57yo1/GrKfXKCqMzChCISpldZx4=
