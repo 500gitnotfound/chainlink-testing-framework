@@ -14,7 +14,7 @@ require (
 	github.com/rs/zerolog v1.33.0
 	github.com/smartcontractkit/seth v1.2.1-0.20240827060008-860f949fcb26
 	github.com/stretchr/testify v1.9.0
-	github.com/urfave/cli/v2 v2.27.5
+	github.com/urfave/cli/v2 v2.27.6
 	go.uber.org/ratelimit v0.3.1
 	golang.org/x/sync v0.9.0
 )
