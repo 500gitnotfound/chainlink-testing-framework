@@ -2,6 +2,8 @@ module github.com/smartcontractkit/chainlink-testing-framework/wasp
 
 go 1.22.5
 
+toolchain go1.24.1
+
 require (
 	github.com/K-Phoen/grabana v0.22.2
 	github.com/c9s/goprocinfo v0.0.0-20210130143923-c95fcf8c64a8
@@ -16,7 +18,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/common v0.60.0
 	github.com/rs/zerolog v1.33.0
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	go.uber.org/ratelimit v0.3.1
 	google.golang.org/grpc v1.67.1 // indirect
 	k8s.io/api v0.31.2
@@ -163,7 +165,7 @@ require (
 
 require (
 	github.com/coder/websocket v1.8.12
-	github.com/grafana/pyroscope-go v1.2.0
+	github.com/grafana/pyroscope-go v1.2.1
 	github.com/smartcontractkit/chainlink-testing-framework/lib/grafana v1.50.0
 )
 
