@@ -1,7 +1,7 @@
 module github.com/smartcontractkit/chainlink-testing-framework/lib
 
 go 1.22.5
-toolchain go1.23.4
+toolchain go1.24.1
 
 require (
 	dario.cat/mergo v1.0.1
@@ -31,7 +31,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.20.5
 	github.com/prometheus/common v0.60.0
-	github.com/rs/zerolog v1.33.0
+	github.com/rs/zerolog v1.34.0
 	github.com/slack-go/slack v0.15.0
 	github.com/smartcontractkit/chainlink-testing-framework/seth v1.50.9
 	github.com/smartcontractkit/chainlink-testing-framework/wasp v1.50.4
