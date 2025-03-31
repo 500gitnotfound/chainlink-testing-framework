@@ -1,8 +1,6 @@
 module github.com/smartcontractkit/chainlink-testing-framework/lib
 
 go 1.22.5
-toolchain go1.23.4
-
 require (
 	dario.cat/mergo v1.0.1
 	github.com/Masterminds/semver/v3 v3.3.0
@@ -14,7 +12,7 @@ require (
 	github.com/barkimedes/go-deepcopy v0.0.0-20220514131651-17c30cfc62df
 	github.com/cdk8s-team/cdk8s-core-go/cdk8s/v2 v2.69.17
 	github.com/chaos-mesh/chaos-mesh/api v0.0.0-20240709130330-9f4feec7553f
-	github.com/docker/docker v27.3.1+incompatible
+	github.com/docker/docker v28.0.4+incompatible
 	github.com/docker/go-connections v0.5.0
 	github.com/ethereum/go-ethereum v1.13.8
 	github.com/go-resty/resty/v2 v2.15.3
